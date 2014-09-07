@@ -1,6 +1,6 @@
 /* 
  * File:   functions.h
- * Author: gleaso83
+ * Author: john3367
  *
  * Created on February 25, 2014, 2:58 PM
  */
