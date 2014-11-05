@@ -1,0 +1,114 @@
+/* line 1, ../../sass/components/_masthead.scss */
+#masthead h1 {
+  background: #036564;
+  font-size: 45px;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 10, ../../sass/components/_masthead.scss */
+.Trisha-home {
+  background: #036564;
+  text-align: center;
+}
+
+/* line 16, ../../sass/components/_masthead.scss */
+h2 {
+  font-size: 25px;
+}
+
+/* line 1, ../../sass/components/_me.scss */
+#me h2 {
+  background: #D3D3D3;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 9, ../../sass/components/_me.scss */
+.About-me {
+  background: #D3D3D3;
+  text-align: center;
+  font-size: 20px;
+}
+
+/* line 15, ../../sass/components/_me.scss */
+button {
+  padding: 0;
+  margin: 0;
+  background: #FFFFFF;
+}
+
+/* line 23, ../../sass/components/_me.scss */
+h2 {
+  font-size: 25px;
+}
+
+/* line 1, ../../sass/components/_feature.scss */
+#feature h2 {
+  background: #036564;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 9, ../../sass/components/_feature.scss */
+.Feature-home {
+  background: #036564;
+  text-align: center;
+  font-size: 20px;
+}
+
+/* line 16, ../../sass/components/_feature.scss */
+h2 {
+  font-size: 25px;
+}
+
+/* line 1, ../../sass/components/_contact.scss */
+#contact h2 {
+  background: #FFFFFF;
+  font-size: 30px;
+}
+
+/* line 7, ../../sass/components/_contact.scss */
+.contact-home {
+  background: #FFFFFF;
+  text-align: center;
+}
+
+/* line 12, ../../sass/components/_contact.scss */
+h2 {
+  font-size: 25px;
+}
+
+/* line 1, ../../sass/components/_media-grid.scss */
+.media-grid {
+  list-style-type: none;
+  background: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 8, ../../sass/components/_media-grid.scss */
+.media-grid li {
+  background: #033649;
+  float: left;
+  height: 200px;
+  width: 20%;
+}
+
+/* line 17, ../../sass/components/_media-grid.scss */
+.media-grid li:nth-child(even) {
+  background: #E8DDCB;
+}
+
+/* line 22, ../../sass/components/_media-grid.scss */
+.media-grid.media-grid-sm li {
+  width: 50;
+  height: 160px;
+}
+
+/* line 27, ../../sass/components/_media-grid.scss */
+h2 {
+  font-size: 25px;
+}
