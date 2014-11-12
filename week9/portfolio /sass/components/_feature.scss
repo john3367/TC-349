@@ -1,0 +1,36 @@
+.img {
+  background-image: url(tc331.png);
+  width: 84%;
+  height: 450px;
+}
+#height {
+  -moz-transition-property: height;
+  -o-transition-property: height;
+  -webkit-transition-property: height;
+  transition-property: height;
+
+  -moz-box-shadow: white 2px 2px 10px;
+  -webkit-box-shadow: white 2px 2px 10px;
+  box-shadow: white 2px 2px 10px;
+}
+
+#height:hover {
+  height:520px;
+
+
+}
+#feature h2{
+  background: #036564;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+
+}
+
+.Feature-home{
+  background: #036564;
+  text-align:center;
+  font-size:20px;
+
+
+}
