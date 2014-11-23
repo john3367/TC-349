@@ -1,0 +1,19 @@
+/* line 1, ../sass/components/_ryu.scss */
+body {
+  background: #D3D3D3;
+  text-align: center;
+  padding: 0;
+}
+
+/* line 7, ../sass/components/_ryu.scss */
+h1, h2 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 12, ../sass/components/_ryu.scss */
+.my-div {
+  padding: 70px;
+  text-algn: center;
+}
