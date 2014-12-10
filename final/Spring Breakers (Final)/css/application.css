@@ -1,0 +1,365 @@
+/* line 1, ../sass/components/_header.scss */
+h1 {
+  font-size: 45px;
+  font-weight: 900;
+  text-align: center;
+  font-family: Papyrus, fantasy;
+}
+
+/* line 7, ../sass/components/_header.scss */
+p {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 1000;
+  font-family: Papyrus, fantasy;
+  padding: .2em;
+}
+
+/* line 14, ../sass/components/_header.scss */
+header {
+  background-image: url("sb_main.jpg");
+  opacity: 0.5;
+  padding: 3em 0 6em 0;
+  /* margin: Top, right,  bottom,  left */
+  color: #fff;
+}
+
+/* line 1, ../sass/components/_about.scss */
+#about {
+  background: #ffe1e6;
+  padding: 3em;
+}
+
+/* line 8, ../sass/components/_about.scss */
+p {
+  text-align: center;
+  font-family: Papyrus, fantasy;
+  font-size: 18px;
+  line-height: 30%;
+}
+
+/* line 1, ../sass/components/_pages.scss */
+#nav {
+  width: 100%;
+  float: left;
+  margin: 0 0 3em 0;
+  padding: 0 0;
+  list-style: none;
+  background-color: #D3D3D3;
+  border-bottom: 1px solid #000000;
+  border-top: 1px solid #000000;
+}
+
+/* line 11, ../sass/components/_pages.scss */
+#nav li {
+  float: left;
+  position: relative;
+  left: 175px;
+}
+
+/* line 16, ../sass/components/_pages.scss */
+#nav li a {
+  display: inline-block;
+  padding: 5px 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #fff;
+  font-family: Papyrus, fantasy;
+  border-right: 1px solid #ccc;
+}
+
+/* line 24, ../sass/components/_pages.scss */
+#nav li a:hover {
+  color: #000000;
+  font-family: Papyrus, fantasy;
+  background-color: #fff;
+}
+
+/* line 28, ../sass/components/_pages.scss */
+.pages {
+  text-align: center;
+}
+
+/* line 32, ../sass/components/_pages.scss */
+#pages {
+  padding: 2em 0 2em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 39, ../sass/components/_pages.scss */
+#pages1 {
+  padding: 5em 0 5em 0;
+}
+
+/* line 43, ../sass/components/_pages.scss */
+#college {
+  padding: .7em 0 1.4em 0;
+}
+
+/* line 46, ../sass/components/_pages.scss */
+#hs {
+  padding: .7em 0 0 0;
+}
+
+/* line 50, ../sass/components/_pages.scss */
+#about_college {
+  padding: 2em 0 2em 0;
+  background-color: #ffffcc;
+}
+
+/* line 56, ../sass/components/_pages.scss */
+#adventure {
+  padding: 1em 0 5em 0;
+}
+
+/* line 61, ../sass/components/_pages.scss */
+#calm {
+  padding: 5em 0 5em 0;
+  background-color: #D3D3D3;
+}
+
+/* line 67, ../sass/components/_pages.scss */
+#party {
+  padding: 5em 0 5em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 73, ../sass/components/_pages.scss */
+#cruise {
+  padding: 5em 0 5em 0;
+}
+
+/* line 78, ../sass/components/_pages.scss */
+#about_hs {
+  padding: 2em 0 2em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 84, ../sass/components/_pages.scss */
+#florida {
+  padding: 5em 0 5em 0;
+}
+
+/* line 89, ../sass/components/_pages.scss */
+#florida2 {
+  padding: 5em 0 5em 0;
+  background-color: #D3D3D3;
+}
+
+/* line 95, ../sass/components/_pages.scss */
+#cali {
+  padding: 5em 0 5em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 101, ../sass/components/_pages.scss */
+#another {
+  padding: 5em 0 5em 0;
+  background-color: #ffe1e6;
+}
+
+/* line 106, ../sass/components/_pages.scss */
+#about_tip {
+  padding: 2em 0 2em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 112, ../sass/components/_pages.scss */
+#pack {
+  padding: 5em 0 5em 0;
+}
+
+/* line 117, ../sass/components/_pages.scss */
+#stay {
+  padding: 5em 0 5em 0;
+  background-color: #D3D3D3;
+}
+
+/* line 123, ../sass/components/_pages.scss */
+#book {
+  padding: 5em 0 5em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 129, ../sass/components/_pages.scss */
+#about_tran {
+  padding: 2em 0 2em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 135, ../sass/components/_pages.scss */
+#tran {
+  padding: 5em 0 5em 0;
+}
+
+/* line 140, ../sass/components/_pages.scss */
+#hotel {
+  padding: 5em 0 5em 0;
+  background-color: #D3D3D3;
+}
+
+/* line 146, ../sass/components/_pages.scss */
+#both {
+  padding: 5em 0 5em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 152, ../sass/components/_pages.scss */
+#rent {
+  padding: 5em 0 5em 0;
+  background-color: #ffe1e6;
+}
+
+/* line 157, ../sass/components/_pages.scss */
+#about_tip {
+  padding: 2em 0 2em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 163, ../sass/components/_pages.scss */
+#pack {
+  padding: 5em 0 5em 0;
+}
+
+/* line 168, ../sass/components/_pages.scss */
+#stay {
+  padding: 5em 0 5em 0;
+  background-color: #D3D3D3;
+}
+
+/* line 174, ../sass/components/_pages.scss */
+#book {
+  padding: 5em 0 5em 0;
+  background-color: #c7b8e4;
+}
+
+/* line 179, ../sass/components/_pages.scss */
+DIV#college {
+  width: 100%;
+  display: block;
+  position: relative;
+  text-align: center!important;
+}
+
+/* line 185, ../sass/components/_pages.scss */
+DIV#college .overlay {
+  position: absolute;
+  top: 45%;
+  width: 0;
+  width: 100%;
+  height: 20%;
+  padding: 3px;
+  background-color: #000000;
+  color: #fff;
+  opacity: 0.7;
+  display: none;
+}
+
+/* line 197, ../sass/components/_pages.scss */
+DIV#college:hover .overlay {
+  display: block;
+}
+
+/* line 200, ../sass/components/_pages.scss */
+DIV#hs {
+  width: 100%;
+  display: block;
+  position: relative;
+  text-align: center!important;
+}
+
+/* line 206, ../sass/components/_pages.scss */
+DIV#hs .overlay {
+  position: absolute;
+  top: 45%;
+  width: 0;
+  width: 100%;
+  height: 20%;
+  padding: 3px;
+  background-color: #000000;
+  color: #fff;
+  opacity: 0.7;
+  display: none;
+}
+
+/* line 218, ../sass/components/_pages.scss */
+DIV#hs:hover .overlay {
+  display: block;
+}
+
+/* line 221, ../sass/components/_pages.scss */
+DIV#tra {
+  width: 100%;
+  display: block;
+  position: relative;
+  text-align: center!important;
+}
+
+/* line 227, ../sass/components/_pages.scss */
+DIV#tra .overlay {
+  position: absolute;
+  top: 45%;
+  width: 0;
+  width: 100%;
+  height: 15%;
+  padding: 3px;
+  background-color: #000000;
+  color: #fff;
+  opacity: 0.7;
+  display: none;
+}
+
+/* line 239, ../sass/components/_pages.scss */
+DIV#tra:hover .overlay {
+  display: block;
+}
+
+/* line 242, ../sass/components/_pages.scss */
+DIV#tipp {
+  width: 100%;
+  display: block;
+  position: relative;
+  text-align: center!important;
+}
+
+/* line 248, ../sass/components/_pages.scss */
+DIV#tipp .overlay {
+  position: absolute;
+  top: 45%;
+  width: 0;
+  width: 100%;
+  height: 20%;
+  padding: 3px;
+  background-color: #000000;
+  color: #fff;
+  opacity: 0.7;
+  display: none;
+}
+
+/* line 260, ../sass/components/_pages.scss */
+DIV#tipp:hover .overlay {
+  display: block;
+}
+
+/* line 263, ../sass/components/_pages.scss */
+form {
+  margin: 0 auto;
+  width: 80%;
+  padding: 24px;
+  background-color: #ffffff;
+  border: solid 2px #A4A4A4;
+}
+
+/* line 270, ../sass/components/_pages.scss */
+ul {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+}
+
+/* line 1, ../sass/components/_footer.scss */
+footer {
+  background: #ffffcc;
+  padding: .1em 0 .1em 0;
+  /* margin: Top, right,  bottom,  left */
+}
